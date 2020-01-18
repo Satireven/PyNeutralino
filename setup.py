@@ -5,14 +5,13 @@ with open("README.md", "r") as f:
 
 setup(
     name="pyneutralino",
-    version="1.0.0",
+    version="1.0.1",
     author="Satireven",
-    author="satireven@gmail.com",
+    author_email="satireven@gmail.com",
     description="A little Python module for making simple HTML/JS GUI apps with Flask",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
-    packages=setuptools.find_packages(),
+    url="https://github.com/Satireven/PyNeutralino",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
