@@ -1,0 +1,5 @@
+include src/pyneutralino/neutralino-linux
+include src/pyneutralino/neutralino-mac
+include src/pyneutralino/neutralino-win.exe
+include src/pyneutralino/app/index.html
+include src/pyneutralino/app/settings.json
