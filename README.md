@@ -6,7 +6,7 @@ PyNeutralino is based on [Neutralinojs](https://github.com/neutralinojs/neutrali
 
 ## Installing
 
-    pip install PyNeutralino
+    pip install pyneutralino
 
 ## A Simple Example
 
